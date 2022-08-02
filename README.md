@@ -16,7 +16,7 @@ User Roles,
 6) Leave monitoring. 
 
 Technologies
-Frontend : 	Angular 7 and CSS  
-Backend  : 	Django, MySQL server 
-Testing  : 	For Backend :- Rest Framework-py test and postman for end-to-end testing 
-		        For Frontend :- UI Testing – Jasmine/Karma
+      Frontend : 	Angular 7 and CSS  
+      Backend  : 	Django, MySQL server 
+      Testing  : 	For Backend :- Rest Framework-py test and postman for end-to-end testing 
+                  For Frontend :- UI Testing – Jasmine/Karma
